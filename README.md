@@ -1,4 +1,4 @@
-# 231 - Persönliches Portfolio von Max Müller
+# 231 - Persönliches Portfolio von Joao Baixinho
 
 # Inhaltsverzeichnis
  - [Lernjournal](/01_Lernjournal/)
