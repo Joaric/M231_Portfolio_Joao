@@ -6,7 +6,7 @@
 |-|-|-|-|-|-|-|-|-|-|-|
 |Lastpass|Yes|Yes|Yes|Yes|Yes|Yes|Yes|Yes|Yes|Yes|Yes|
 |Keepass|Yes|Yes|Yes|No|Yes|No|Yes|Yes|Yes|Yes|Yes|
-|1Password|Yes|Yes|Yes|Yes|Yes|Yes|No||Yes|Yes|Yes|
+|1Password|Yes|Yes|Yes|Yes|Yes|Yes|No|Yes|Yes|Yes|
 
 # Installation
 
