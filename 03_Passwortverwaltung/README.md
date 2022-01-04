@@ -1,8 +1,10 @@
 # Passwortverwaltung
 
 # Entscheidung
-*Suchen Sie sich mithilfe des Internets 3 verschiedene Passwortverwaltungsprogramme aus und vergleichen Sie diese mithilfe einer Tabelle. Nehmen Sie mindestens 10 möglichst messbare Kriterien.*
 
+|Managers|Offline Mode|Two-Factor Authentication|Browser Integration|Autofill Forms|Password Generator|Security Alert|Portable Application|Mobile Application|Import Passwords|Export Passwords|
+|-|-|-|-|-|-|-|-|-|-|-|
+|Lastpass|Yes|Yes|Yes|Yes|Yes|Yes|Yes|Yes|Yes|Yes|Yes|
 # Installation
 *Wie mussten Sie die/den Applikation/Service installieren/einrichten? Dokumentieren Sie die einzelnen Schritte, sodass eine Fachperson in der Lage ist ihre Schritte zu reproduzieren.*
 

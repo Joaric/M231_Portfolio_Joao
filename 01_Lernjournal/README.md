@@ -1,6 +1,15 @@
 # Lernjournal
 
 # Inhaltsverzeichnis
+
+- [16.11.2021 - 23.11.2021](#16.11.2021-23112021)
+
+- [30.11.2021](#30112021)
+
+- [7.12.2021](#7122021)
+
+- [14.12.2021](#14122021)
+
 # 16.11.2021 - 23.11.2021
 
 Wir fingen an über Datenschutz zu reden, und was es eigentlich ist. Wir haben nur die Grundlagen angeschaut, den unseren heutigen Hauptthema war Encryption. Wir haben gelernt, wir wir Texte und bestimmte Nachrichten encrypten können, so das nur die Person die weiss, wie diese Nachricht encrzpted wurde, diese auch lesen kann. Wir haben dein Software Crzptoo benutzt, um uns besser damit zu befassen und selber zu experimentieren. Wir haben Caesar benutzt, um Nachrichten zu encrzpten und diese an unsere Mitschüler zu schicken.
