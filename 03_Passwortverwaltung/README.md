@@ -22,4 +22,5 @@
 *Können Sie ihre Daten (Passwörter, Keyfiles, usw.) im Passwortverwaltungsprogramm strukturieren? Auf welchen Geräten haben Sie das/den Programm/Service eingerichtet? Wie synchronisieren Sie die Daten? Versuchen Sie ein möglichst vollständiges Bild ihrer Konfiguration zu vermitteln.*
 
 # Quellen
-*Führen Sie hier alle Quellen auf.*
+
+Differences between password managers: https://stuartschechter.medium.com/before-you-use-a-password-manager-9f5949ccf168
