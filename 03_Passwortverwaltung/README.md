@@ -23,7 +23,7 @@ Ich kann meine Passwörter Offline und Online anschauen, und diese sind durch Tw
 
 # Quellen
 
-Lastpass: https://www.lastpass.com/
-Keepass: https://keepass.info/
-1Password: shorturl.at/eovVX
-Differences between password managers: https://stuartschechter.medium.com/before-you-use-a-password-manager-9f5949ccf168
+- Lastpass: https://www.lastpass.com/
+- Keepass: https://keepass.info/
+- 1Password: shorturl.at/eovVX
+- Differences between password managers: https://stuartschechter.medium.com/before-you-use-a-password-manager-9f5949ccf168
