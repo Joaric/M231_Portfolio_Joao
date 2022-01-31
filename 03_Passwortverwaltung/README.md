@@ -19,7 +19,7 @@
 - Now you're done
 
 # Einrichtung
-*Können Sie ihre Daten (Passwörter, Keyfiles, usw.) im Passwortverwaltungsprogramm strukturieren? Auf welchen Geräten haben Sie das/den Programm/Service eingerichtet? Wie synchronisieren Sie die Daten? Versuchen Sie ein möglichst vollständiges Bild ihrer Konfiguration zu vermitteln.*
+Ich kann meine Passwörter Offline und Online anschauen, und diese sind durch Two-Factor Authentication geschützt. Ich habe Lastpass auf meinen Arbeitslaptop, auf meinem Desktop zuhause, auf meinem Handy installiert und direkt in meinen Browser integriert. Die Daten sind durch ein sichres Cloud-Server in meinen Account geschützt, der ebenfallsd mit Two-Factor Authentification geschützt ist.
 
 # Quellen
 
