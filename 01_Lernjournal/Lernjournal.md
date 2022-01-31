@@ -70,7 +70,7 @@ Ich habe gelernt wie Ablagekonzepten aufgebaut sind.
  ## 7.2 Was habe ich erreicht?
 Heute habe ich hauptsächlich an meinem Repository gearbeitet und diesen versaubert.
 
-#25.01.2022
+# 25.01.2022
 
 ### 8.1 Was haben wir Heute gemacht?
 Heute war ich nur an meinen Repository und an BMZ Hausaufgaben dran. Einige mussten Ihren Repository schon Heute abgeben, somit hatten die anderen Zeit weiter an ihren Repositories oder an andere Aufgaben zu arbeiten. Ich nutzte die chance an meinen Repository zu weiterzuarbeiten und meine BMZ Hausaufgaben zu erledigen. Somit konnte ich mein Repository fast erledigen, jedoch fehlt mir nur noch eine Ablagekonzept und ein Backupkonzept. Dies muss ich schnell fertig machen oder bei mir zuhause erledigen. Denn ich hatte keinen anderen Wahl, ich habe keine Stunden mehr übrig an den Repository in der Schule zu arbeiten. Ich konnte kein feedback holen gehen von Herr Albrecht, denn er war sehr beschäftigt mit der Abgaben.
