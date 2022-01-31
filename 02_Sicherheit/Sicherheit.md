@@ -1,4 +1,4 @@
-#Inhaltsverzeichnis
+# Inhaltsverzeichnis
 - [1. Checkliste des Datenschutzbeauftragten des Kantons Zürichs](#1-checkliste-des-datenschutzbeauftragten-des-kantons-zürichs)
   - [Checkliste E-Mail-Sicherheit](#checkliste-e-mail-sicherheit)
 - [Checkliste Smartphone-Sicherheit erhöhen](#checkliste-smartphone-sicherheit-erhöhen)
