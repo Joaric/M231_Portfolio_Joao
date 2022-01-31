@@ -10,12 +10,17 @@
 
 - [14.12.2021](#14122021)
 
+- [04.01.2022](#04012022)
+
+- [11.01.2022](#11012022)
+
+- [25.01.2022](25012022)
+
 # 16.11.2021 - 23.11.2021
 
 Wir fingen an über Datenschutz zu reden, und was es eigentlich ist. Wir haben nur die Grundlagen angeschaut, den unseren heutigen Hauptthema war Encryption. Wir haben gelernt, wir wir Texte und bestimmte Nachrichten encrypten können, so das nur die Person die weiss, wie diese Nachricht encrypted wurde, diese auch lesen kann. Wir haben dein Software Crzptoo benutzt, um uns besser damit zu befassen und selber zu experimentieren. Wir haben Caesar benutzt, um Nachrichten zu encrypten und diese an unsere Mitschüler zu schicken.
 ### 1.3 Ziele für nächste Woche
 Meine Ziele für Nächste Woche ist, mich mit den Git Commands auseinander setzen und sie besser verstehen. Dazu haben wir Hausaufgaben erhalten. Wir müssen das EBOEB bis seite 9 Lesen.
-
 
 # 30.11.2021
 
@@ -42,6 +47,20 @@ Heute haben wir unseren ersten Test gehabt. Wir mussten eine Zusammenfassung sch
  # 04.01.2022
 
  ### 5.1 Was haben wir heute gemacht?
- Heute fing die Modulen wieder an. Wir alle kommen gerade von den Weinachtsferien und alle sind gut ins neue Jahr gerutscht! Wir haben vieles Repetiert und wiederholt. Schlussendlich waren es ja wie schon gesagt Ferien. Wir haben alle geschaut wie unser Repository ist. Wir sollten schon einpaar Kompetenzen fertig geschrieben haben. Herr Albrecht hat auch angeschaut wie unser Repository ist. Ich konnte somit Passworltverwaltung und die Checkliste erledigen. Die lief ganz gut. Jedoch hatte ich Informationen die nicht stimmten, die musste ich raus nehmen! Wir erhielten auch Theorie von Herr Albrecht. Der Theorie war bezüglich Bacupkonzept. Wir haben einpaar Aufgaben angeschaut, jedoch nicht konkret richtig angefangen zu lösen. Wir haben auch Hauptsächlich an unseren Repository gearbeitet.
+ Heute fingen die Modulen wieder an. Wir haben vieles repettiert und wiederholt. Wir haben alle geschaut wie unser Repository ist. Wir sollten schon ein paar Kompetenzen fertig geschrieben haben. Herr Albrecht hat auch angeschaut wie unser Repository im Moment aussehen. Ich konnte somit Passworltverwaltung und die Checkliste erledigen. Diese liefen ganz gut. Jedoch hatte ich Informationen die nicht stimmten, die musste ich korrigieren und neu committen. Wir erhielten auch neue Theorie von Herr Albrecht. Die Theorie war bezüglich Backupkonzepten. Wir haben ein paar Aufgaben angeschaut, jedoch hatten wir nicht genug Zeit diese konkret anfangen zu lösen. Wir haben auch viel an unseren Repositories gearbeitet.
  ### 5.2 Auswertung und Ziele
- Es war ein angenehmer Start wieder ins Modul. Ich hatte einbisschen mühe immer während der Stunde dabei zu bleiben. Ich bin einpaar mal ausgezoned, jedoch habe ich das meiste mitgenommen. Also war es nicht schlimm. Ich muss mich wieder richtig einstellen, denn dies darf nicht öfters passieren! Sonst lief diese Woche ganz gut. Ich konnte beim Herr Albrecht verbesserungs möglichkeiten holen und nachfragen. Und habe sie auch so angewendet.
+ Es war ein angenehmer Start wieder ins Modul. Ich hatte ein bisschen mühe immer während der Stunde dabei zu bleiben. Ich muss mich wieder richtig einstellen und die Gemütlichkeit der Ferien vergessen. Ansonsten lief den heutigen Tag gut. 
+ 
+ # 11.01.2022
+ 
+ ### 6.1 Was haben wir Heute gemacht?
+ Heute haben wir den ganzen Morgen SOL gearbeitet. Wir haben Aufgaben bekommen und das war hauptsächlich alles das wir gemacht haben, den diese Aufgaben beschäftigten uns den ganzen Morgen.
+### 6.2 Was habe ich gelernt?
+Ich habe gelernt wie Ablagekonzepten aufgebaut sind.
+ 
+ # 25.01.2022
+ 
+ ### 7.1 Was haben wit Heute gemacht?
+ Heute war der Schwerpunkt das Thema Backup. Wir haben Vorträge vorgeführt. Sie lief ganz gut und wir haben es auf Englisch gemacht.
+ ## 7.2 Was habe ich erreicht?
+Heute habe ich hauptsächlich an meinem Repository gearbeitet und diesen versaubert.
