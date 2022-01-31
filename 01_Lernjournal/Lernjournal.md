@@ -26,16 +26,17 @@ Meine Ziele für Nächste Woche ist, mich mit den Git Commands auseinander setze
 
 # 30.11.2021
 
-Heute haben wir nicht viel gelernt. eigentlich haben wir nur Sachen repetiert und einen Film (The Cleaners) geschaut. Wir haben auch unsere eigene Platform kurz gestaltet. Da hat uns gezeigt wir es ist so eine Social media Platform zu gestalten und auf was man bei so etwas achten muss. Danach hatte ich noch Zeit mit Git anzufangen und mich daran zu vertiefen.
+Heute haben wir nicht viel gelernt. Eigentlich haben wir nur Sachen repetiert und einen Film (The Cleaners) geschaut. Wir haben auch unsere eigene Platform kurz gestaltet. Da hat uns gezeigt wir es ist so eine Social media Platform zu gestalten und auf was man bei so etwas achten muss. Danach hatte ich noch Zeit mit Git anzufangen und mich daran zu vertiefen.
+
 ### 2.3 VCHAT
 Wir haben unseren eigenen Plattform erdenkt. Das war ein Projektauftrag und in meiner Gruppe kamen wir auf die Idee VCHAT. Der Sinn hinter unser Platform ist es, Snapchat + Instagram zu kombinieren. Da es heutzutage viele VR Youtubers/Content Creator/Streamers gibt und sie nicht wirklich eine Plattform haben. Auf unser Plattform kann man virtuelle Figuren erstellen, diese als Avatar brauchen und mit anderen Spieler Chatten und Kommunizieren. Es machte Spass einen mini Projekt zu erstellen, welches nicht direkt realisierbar ist.
 ### 2.4 Ziele für nächste mal
-Die Prüfung kommt bald an, also muss ich immer mehr repetieren und anfangen meine Notizen zu machen, dies werde ich verlauf der Woche anfangen. Dabei muss ich mein Markdown schönner erstellen und clean Coding regeln anpassen. Ich muss auch langsam mit meine checkliste anfangen, die werde ich auch anfangen. Als Hausaufgaben muss ich noch vom EBOEB weiterlesen.
+Die Prüfung kommt bald, also muss ich immer mehr repetieren und anfangen meine Notizen zu machen. Diese werde ich im Verlauf der Woche anfangen. Dabei muss ich mein Markdown schöner gestalten und clean Coding Regeln anpassen. Ich muss auch langsam mit meine Checkliste anfangen. Als Hausaufgaben muss ich noch am EBOEB weiterlesen.
 
 # 7.12.2021
 
 ### 3.1 Ziele erreicht?
-Die Ziele von letzte Woche konnte ich erledigen, jedoch nicht allte. Ich konnte mein Markdown schöner darstellen, Prüfungsstoff repetieren. Auch habe ich meine Notizen angefangen zu schreiben, die ist auch ganz gut unterwegs. Die EBOEB Seiten konnte ich auch Lesen und auch heute gab es wieder einen Quiz und diesmal schnied ich nicht so gut ab wie letztes mal, jedoch hatte ich 65% richtig.
+Die Ziele von letzte Woche konnte ich erledigen, jedoch nicht alle. Ich konnte mein Markdown schöner darstellen und den Prüfungsstoff repetieren. Auch habe ich meine Notizen angefangen zu schreiben, die ist auch ganz gut unterwegs. Die EBOEB Seiten konnte ich auch lesen und auch Heute gab es wieder einen Quiz. Diesmal schnied ich nicht so gut wie letztes mal ab, jedoch hatte ich 65% richtig.
 ### 3.2 Was haben wir Heute gemacht?
 Heute habe ich mich mit den Password-manager beschäftigt. Ich habe 3 verschiedene Password-managern verglichen, Google Password, Keypass und Nordpass, und mich am Ende für Nordpass entschieden. Ich habe dann Nordpass installiert, meine Passwörter auf Nordpass gespeichert und Nordpas getestet, um zu sehen ob es wie es beschrieben wird ist.
 
@@ -49,7 +50,7 @@ Heute haben wir unseren ersten Test gehabt. Wir mussten eine Zusammenfassung sch
  # 04.01.2022
 
  ### 5.1 Was haben wir heute gemacht?
- Heute fingen die Modulen wieder an. Wir haben vieles repettiert und wiederholt. Wir haben alle geschaut wie unser Repository ist. Wir sollten schon ein paar Kompetenzen fertig geschrieben haben. Herr Albrecht hat auch angeschaut wie unser Repository im Moment aussehen. Ich konnte somit Passworltverwaltung und die Checkliste erledigen. Diese liefen ganz gut. Jedoch hatte ich Informationen die nicht stimmten, die musste ich korrigieren und neu committen. Wir erhielten auch neue Theorie von Herr Albrecht. Die Theorie war bezüglich Backupkonzepten. Wir haben ein paar Aufgaben angeschaut, jedoch hatten wir nicht genug Zeit diese konkret anfangen zu lösen. Wir haben auch viel an unseren Repositories gearbeitet.
+ Heute fingen die Modulen wieder an. Wir haben vieles repetiert und wiederholt. Wir haben alle geschaut wie unser Repository ist. Wir sollten schon ein paar Kompetenzen fertig geschrieben haben. Herr Albrecht hat auch angeschaut wie unser Repository im Moment aussehen. Ich konnte somit Passworltverwaltung und die Checkliste erledigen. Diese liefen ganz gut. Jedoch hatte ich Informationen die nicht stimmten, die musste ich korrigieren und neu committen. Wir erhielten auch neue Theorie von Herr Albrecht. Die Theorie war bezüglich Backupkonzepten. Wir haben ein paar Aufgaben angeschaut, jedoch hatten wir nicht genug Zeit diese konkret anfangen zu lösen. Wir haben auch viel an unseren Repositories gearbeitet.
  ### 5.2 Auswertung und Ziele
  Es war ein angenehmer Start wieder ins Modul. Ich hatte ein bisschen mühe immer während der Stunde dabei zu bleiben. Ich muss mich wieder richtig einstellen und die Gemütlichkeit der Ferien vergessen. Ansonsten lief den heutigen Tag gut. 
  
@@ -60,9 +61,9 @@ Heute haben wir unseren ersten Test gehabt. Wir mussten eine Zusammenfassung sch
 ### 6.2 Was habe ich gelernt?
 Ich habe gelernt wie Ablagekonzepten aufgebaut sind.
  
- # 25.01.2022
+ # 18.01.2022
  
  ### 7.1 Was haben wit Heute gemacht?
- Heute war der Schwerpunkt das Thema Backup. Wir haben Vorträge vorgeführt. Sie lief ganz gut und wir haben es auf Englisch gemacht.
+ Heute war der Schwerpunkt das Thema Backup. Wir haben Vorträge vorgeführt. Sie liefen ganz gut und wir durften es auf Englisch machen, was mir viel Freude bereitete.
  ## 7.2 Was habe ich erreicht?
 Heute habe ich hauptsächlich an meinem Repository gearbeitet und diesen versaubert.
